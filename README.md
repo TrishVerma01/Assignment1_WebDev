@@ -106,5 +106,4 @@ ENJOY MUSIC <img width="1920" height="1020" alt="Screenshot 2025-11-15 015200" s
 
 ---
 
-If you'd like, I can also generate a *smaller student version* or a *more professional one*.
 
