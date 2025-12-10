@@ -1,5 +1,4 @@
-Got it — here is the **README rewritten using the SAME formatting style and spacing** as your original GitHub version.
-No fancy sections, no emojis, no extra spacing — just simple Markdown exactly like your style.
+
 
 ---
 
