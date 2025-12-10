@@ -61,6 +61,7 @@ PHP validates email and password again before allowing login.
 # Project Folder Structure
 
 project-folder/
+
 │─ index.html
 │─ dashboard.php
 │─ music.html
